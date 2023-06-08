@@ -5,7 +5,7 @@
 <ol>
 <li> How much interest that can be yielded on their principals after they invest for a chosen number of years at a specific rate. It also gives the user an option to decide whether their investment should be based on Simple Interest or Compound Interest. After receiving the user inputs, the final amount(principal plus interest) is shown to the user.</li>
 
-<li>How much their monthly contributions would be towards their payment for a bond to acquire a property. The application asks the user to enter the present value of the property, how many months they would like to pay off the bond, and the rate on the bond. After entering these, the user is presented with their yearly contributions to settle the bond.</li>
+<li>How much their monthly contributions would be towards their payment for a bond to acquire a property. The application asks the user to enter the present value of the property, how many months they would like to pay off the bond, and the rate on the bond. After entering these, the user is presented with their monthly contributions to settle the bond.</li>
 </ol></p>
 
 <p>With this application, users do not have to worry about working out the complex mathematical calculations which involves explonential values and the demanding ordering of the divisors. Also, the user is presented with a single application that can both calculate Interests as well as contributions on Bonds instead of investing in separate appications for the same goals.</p>
